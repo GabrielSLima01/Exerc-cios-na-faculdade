@@ -1,0 +1,7 @@
+$ git clone https://github.com/GabrielSLima01/Exercicios-na-faculdade.git
+$ cd Exercicios-na-faculdade/
+$ git add .
+$ git status
+$ git commit -m "Ajeitando a pasta"
+$ git status
+$ git push
